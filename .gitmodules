@@ -1,0 +1,4 @@
+[submodule "timedropper"]
+	path = timedropper
+	url = ../timedropper
+	branch = master
