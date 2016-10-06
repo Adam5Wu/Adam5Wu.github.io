@@ -1,4 +1,4 @@
 [submodule "timedropper"]
-	path = timedropper
-	url = ../timedropper
+	path = TimeDropper-Ex
+	url = ../TimeDropper-Ex
 	branch = master
