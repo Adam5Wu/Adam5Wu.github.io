@@ -3,6 +3,6 @@
 	url = ../TimeDropper-Ex
 	branch = master
 [submodule "jquery-date-range-picker"]
-	path = jquery-date-range-picker
-	url = ../jquery-date-range-picker
+	path = DateRange-Picker-Ex
+	url = ../DateRange-Picker-Ex
 	branch = master
