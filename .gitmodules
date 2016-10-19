@@ -6,3 +6,7 @@
 	path = DateRange-Picker-Ex
 	url = ../DateRange-Picker-Ex
 	branch = master
+[submodule "DateTimeRanger"]
+	path = DateTimeRanger
+	url = git@github.com:Adam5Wu/DateTimeRanger.git
+	branch = master
