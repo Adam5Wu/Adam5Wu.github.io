@@ -8,5 +8,5 @@
 	branch = master
 [submodule "DateTimeRanger"]
 	path = DateTimeRanger
-	url = git@github.com:Adam5Wu/DateTimeRanger.git
+	url = ../DateTimeRanger
 	branch = master
